@@ -1,4 +1,6 @@
+pandas
 openai
+# huggingface_hub
 langchain
 streamlit
 python-dotenv
